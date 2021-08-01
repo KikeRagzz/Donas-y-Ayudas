@@ -19,8 +19,8 @@
 <img width="700" alt="4 Comparativa" src="https://user-images.githubusercontent.com/87662114/127761984-e50102c3-f2eb-4b44-8b9c-ffb272b6163c.png">
 <img width="700" alt="5 Costos" src="https://user-images.githubusercontent.com/87662114/127761985-e29a6d86-ad4b-4355-a3d8-841e251b1549.png">
 
-
-
 ### Tiempo sin disponibilidad a un año
+<img width="613" alt="Captura de Pantalla 2021-08-01 a la(s) 1 49 08" src="https://user-images.githubusercontent.com/87662114/127762057-00b6d033-506b-443a-a1bc-032ba34c7af6.png">
+
 
 ### Qué te pareció el evento
