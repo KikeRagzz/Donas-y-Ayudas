@@ -13,8 +13,13 @@
 <img width="1036" alt="MicrosoftTeams-image" src="https://user-images.githubusercontent.com/86888987/127759579-6086c3b6-c4fd-4693-8b4d-2b4308af2cb9.png">
 
 ### TCO 3 años y Precio Total por mes
-<img width="500" alt="imagen" src="https://user-images.githubusercontent.com/87662114/127761477-80550ceb-eacd-422b-8a43-71b4d006467e.png"> 
-<img width="500" alt="imagen" src="https://user-images.githubusercontent.com/87662114/127761521-0f68fff4-1ad2-4d82-b3d9-31fddf0cbc9e.png">
+<img width="700" alt="imagen" src="https://user-images.githubusercontent.com/87662114/127761477-80550ceb-eacd-422b-8a43-71b4d006467e.png"> 
+<img width="700" alt="2 Pastel" src="https://user-images.githubusercontent.com/87662114/127761963-e55cb972-a226-4472-8ca8-fccdd4bb1c76.png">
+<img width="700" alt="3 Barras" src="https://user-images.githubusercontent.com/87662114/127761983-29991431-d774-451b-b917-bc025e6c710b.png">
+<img width="700" alt="4 Comparativa" src="https://user-images.githubusercontent.com/87662114/127761984-e50102c3-f2eb-4b44-8b9c-ffb272b6163c.png">
+<img width="700" alt="5 Costos" src="https://user-images.githubusercontent.com/87662114/127761985-e29a6d86-ad4b-4355-a3d8-841e251b1549.png">
+
+
 
 ### Tiempo sin disponibilidad a un año
 
