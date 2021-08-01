@@ -9,7 +9,7 @@
 Donas y Ayudas es una plataforma para hacer donación de alimentos a las personas con menos recursos, en ella podemos recibir el apoyo y canalizarlo con las personas que lo ncesiten, tratando de cubrir la mayor parte del país. Utilizando los servicios de Azure, aumentamos la capacidad para recibir pediticiones y llegar a más gente.
 
 ### Link al Tiktok
-[Donas y Ayudas]()
+[Donas y Ayudas](https://vm.tiktok.com/ZMd3e5WrK/)
 ### Diagrama de Azure
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/86888987/127761992-f986868f-0ce4-436f-a28f-8b799429eb6a.png)
 
