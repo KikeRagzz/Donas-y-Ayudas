@@ -13,7 +13,8 @@
 <img width="1036" alt="MicrosoftTeams-image" src="https://user-images.githubusercontent.com/86888987/127759579-6086c3b6-c4fd-4693-8b4d-2b4308af2cb9.png">
 
 ### TCO 3 años y Precio Total por mes
-
+<img width="500" alt="imagen" src="https://user-images.githubusercontent.com/87662114/127761477-80550ceb-eacd-422b-8a43-71b4d006467e.png"> 
+<img width="500" alt="imagen" src="https://user-images.githubusercontent.com/87662114/127761521-0f68fff4-1ad2-4d82-b3d9-31fddf0cbc9e.png">
 
 ### Tiempo sin disponibilidad a un año
 
