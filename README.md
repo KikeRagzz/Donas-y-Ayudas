@@ -7,8 +7,10 @@
 ### Link al Tiktok
 
 ### Diagrama de Azure
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/86888987/127759575-c3e9e342-b688-4b8c-a026-9a3fb055c4e7.png)
 
 ### SLA Compuesto
+<img width="1036" alt="MicrosoftTeams-image" src="https://user-images.githubusercontent.com/86888987/127759579-6086c3b6-c4fd-4693-8b4d-2b4308af2cb9.png">
 
 ### TCO 3 años y Precio Total por mes
 
