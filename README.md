@@ -31,4 +31,4 @@ Donas y Ayudas es una plataforma para hacer donación de alimentos a las persona
 
 
 ### Qué te pareció el evento
-Este summer hack fue muy enriquecedor, ya que tuvimos que trabajar con un equipo de áreas de conocimiento totalmente diferentes pero siguiendo un objetivo en común. Además fuimos capaces de aplicar toda la teoría que estudiamos este mes en un proyecto de impacto social y así, hacer notar que los beneficios de la nube no son solo para grandes empresas que quieren hacerse millonarias, si no también para un grupo de jovenes que en un solo fin de semana buscaron mejorar un poco la situación de su país. 
+Este summer hack fue muy enriquecedor, ya que tuvimos que trabajar en un equipo conformado con persoanas de áreas de conocimiento totalmente diferentes, pero siguiendo un objetivo en común. Además fuimos capaces de aplicar toda la teoría que estudiamos en este mes en un proyecto de impacto social y así hacer notar que los beneficios de la nube no son sólo para grandes empresas que quieren hacerse millonarias, si no también para un grupo de jóvenes que en un solo fin de semana buscaron mejorar un poco la situación de su país. 
